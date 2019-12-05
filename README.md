@@ -1,4 +1,10 @@
-# papers
+# Books
+
+| Title | Year | Why read?  | Russian notes |
+|-------|------|------------|---------------|
+| [Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting](https://arxiv.org/abs/1610.03013)  |  2016 | computational advertising starter guide/survey, covers many topics, great starting point | [vk](https://vk.com/papersreaders?w=wall-154085965_7)  |
+
+# Papers
 
 ## CTR/CVR prediction
 * [Field-aware Factorization Machines for CTR Prediction](https://github.com/ishugaepov/papers/blob/master/CTR%20CVR%20prediction/%5BFFM%5D%20Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction%20(Criteo%202016).pdf)
